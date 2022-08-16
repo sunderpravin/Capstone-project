@@ -1,5 +1,5 @@
 # Capstone-project
-#Fraud detection in Credit Card Transactions
+**Fraud detection in Credit Card Transactions**
 
 ##Problem statement:
   There have always been those who would develop new ways to illegally access someone's funds. Due to the boom of technology, people are more sophisticated and reliable towards online transactions. Even though the result remains same. Since all transactions are through online with the simple entry of your credit card information. When a data breach results in monetary theft eventually, the loss of client loyalty as well as the company's image. organizations, consumers, banks, and merchants are all put at risk.
